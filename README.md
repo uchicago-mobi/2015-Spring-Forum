@@ -6,7 +6,7 @@ Here is schedule for remainder of the course:
  - Case Study InstagramKit with Emon Dai
  - Case Study NYTPhotoViewer with Dana Katz
 
-* **Week 5**: UIView performance, Image Optimization, Accessibility
+* **Week 5**: Extensions, CloudKit, Accessibility UIView performance, Image Optimization, 
  - Case Study Dropbox with Yifan Xiao
  - Case Study SpotifySDK with Alex
 
