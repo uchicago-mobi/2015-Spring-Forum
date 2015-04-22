@@ -27,7 +27,7 @@ Here is schedule for remainder of the course:
  - Homework 3 is due
  - Homework 4 is assigned (Short 1 week assignment, make something using either WatchKit, HealthKit, ResearchKit or Beacons). Pick one and make a simple, unpolished app that shows that you know how to use the API.
 
-* **Week 9**: StoreKit, KVC
+* **Week 9**: StoreKit, KVC, A Bit More Swift
  - Homework 4 is due. 
 
 * **Week 10**: TBD
