@@ -18,7 +18,7 @@ Here is schedule for remainder of the course:
  - Case Study __ with Susan?
 
 * **Week 7**: Game Architecture with SpriteKit, UIView Drawing Performance
- - Cocos2D with Johnny (?)
+ - Cocos2D with Johnny
  - Case Study ResearchKit with Andre
  - Case Study Facebook SDK for iOS with Jerry
 
@@ -27,12 +27,11 @@ Here is schedule for remainder of the course:
  - Homework 3 is due
  - Homework 4 is assigned (Short 1 week assignment, make something using either WatchKit, HealthKit, ResearchKit or Beacons). Pick one and make a simple, unpolished app that shows that you know how to use the API.
 
-* **Week 9**: KVC, Custom View Controller Transitions, Advanced Swift
+* **Week 9**: No Class
  - Homework 4 is due. 
 
-* **Week 10**: TBD 
- - Newstand?
- - StoreKit
+* **Week 10**: KVC, Custom View Controller Transitions, Advanced Swift, StoreKit
+ - Newstand
 
 * **Week 11**: WWDC Roundup
  - Live video chat with anyone who is there?
